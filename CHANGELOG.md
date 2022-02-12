@@ -1,5 +1,10 @@
 Next steps:
-* Blog posts
+* Adding categories with icons to blog posts
+
+Day 3:
+* List blog posts
+* Learned how to do server-side rendering with `load()`
+* Learned how to create an API that lists the posts
 
 Day 2:
 * Layout

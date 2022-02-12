@@ -1,3 +1,30 @@
+<script context="module">
+export const load = async ({ fetch }) => {
+  const posts = await fetch('/api/posts.json')
+  const allPosts = await posts.json()
+
+  return {
+    props: {
+      posts: allPosts
+    }
+  }
+}
+</script>
+
+<script>
+    export let posts;
+</script>
+
 <h1>Blog</h1>
-<p>Hmm, what could I write? no idea...</p>
-<p><a href="blog/first">Here is the first blog post</a>, just to make sure markdown will work :)</p>
+<ul>
+  {#each posts as post}
+    <li>
+      <h2>
+        <a href={post.path}>
+          {post.meta.title}
+        </a>
+      </h2>
+      Published {post.meta.date}
+    </li>
+  {/each}
+</ul>
