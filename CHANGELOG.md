@@ -1,6 +1,9 @@
 Next steps:
 * Adding categories with icons to blog posts
 
+Day 4: 
+* Add categories to blog posts
+
 Day 3:
 * List blog posts
 * Learned how to do server-side rendering with `load()`

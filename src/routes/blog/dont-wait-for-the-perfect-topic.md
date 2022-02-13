@@ -1,7 +1,7 @@
 ---
 title: Don't wait for the perfect topic
 date: "2022-01-09"
-category: 'self-development'
+category: 'pd'
 ---
 
 A few years ago I faced another important decision. Do I want to finish my masters degree? When my therapist asked me that question, it struck me a bit. I mean, of course — that's what you're supposed to do, right? I won't quit now — so close to the finish line.

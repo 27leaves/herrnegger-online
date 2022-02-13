@@ -1,7 +1,7 @@
 ---
 title: Decision
 date: "2022-01-08"
-category: 'self-development'
+category: 'pd'
 ---
 
 So here I was. Lying in my bed with my thoughts going in circles for hours and hours. A feeling in my stomach spreading into the rest of my body I am well aware of - anxiety, fear of what the future may bring. I had to face a big decision.
