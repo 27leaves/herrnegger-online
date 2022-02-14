@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply min-h-screen;
+    }
+    body {
+        @apply text-gray-700 dark:text-gray-100 min-h-full bg-white dark:bg-slate-800 px-5;
+    }
+    h1 {
+        @apply text-3xl font-bold mb-5; 
+    }
+    h2 {
+        @apply text-2xl;
+    }
+    p {
+        @apply mb-5;
+    }
+}

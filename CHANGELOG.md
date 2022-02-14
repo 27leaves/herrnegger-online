@@ -1,6 +1,11 @@
 Next steps:
 * Adding categories with icons to blog posts
 
+Day 5:
+* Install Tailwind
+* Add base styles
+* Add dark mode
+
 Day 4: 
 * Add categories to blog posts
 

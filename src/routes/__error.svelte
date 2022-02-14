@@ -15,10 +15,13 @@
 	export let message, status;
 </script>
 
-{#if status === 404}
-	<h1>Oh no!</h1>
-	<p>This page does not exist (yet?), bro!</p>
-{:else}
-    <h1>{status}</h1>
-	<p>{message}</p>
-{/if}
+<div class="max-w-prose mx-auto">
+    {#if status === 404}
+        <h1>Oh no!</h1>
+        <p>This page does not exist (yet?)</p>
+    {:else}
+        <h1>{status}</h1>
+        <p>{message}</p>
+    {/if}
+
+</div>
