@@ -1,5 +1,6 @@
 ---
 title: Don't wait for the perfect topic
+description: What tackling my master thesis taught me about life.
 date: "2022-01-09"
 category: 'pd'
 ---

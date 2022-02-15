@@ -15,8 +15,11 @@
 </script>
 
 <script>
+    import SEO from '$lib/components/SEO.svelte';
 	export let posts, categories;
 </script>
+
+<SEO title="Blog" metadescription="Blog posts" isArticle={false} />
 
 <div class="max-w-prose mx-auto">
 	<h1>Blog</h1>

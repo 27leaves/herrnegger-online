@@ -1,5 +1,15 @@
 Next steps:
-* Adding categories with icons to blog posts
+* Add reading time
+* Add category to posts in API
+* Optimize site for mobile
+* List blogs design
+* List projects with atomic progress
+* Change font
+
+Day 6:
+* Add Svelte-SEO
+* Refactor into SEO component
+* Add tags for blog posts and website
 
 Day 5:
 * Install Tailwind
