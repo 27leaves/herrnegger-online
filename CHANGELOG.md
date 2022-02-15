@@ -1,6 +1,8 @@
 Next steps:
 * Add reading time
 * Add category to posts in API
+* Add image generation
+* Add better tags for Twitter
 * Optimize site for mobile
 * List blogs design
 * List projects with atomic progress
