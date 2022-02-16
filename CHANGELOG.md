@@ -1,4 +1,5 @@
 Next steps:
+* Add Twitter image
 * Add reading time
 * Add category to posts in API
 * Add image generation

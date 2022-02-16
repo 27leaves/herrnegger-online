@@ -19,7 +19,7 @@
 	export let posts, categories;
 </script>
 
-<SEO title="Blog" metadescription="Blog posts" isArticle={false} />
+<SEO title="Blog of Johannes Herrnegger" metadescription="Johannes writes about personal development and software development." isArticle={false} />
 
 <div class="max-w-prose mx-auto">
 	<h1>Blog</h1>

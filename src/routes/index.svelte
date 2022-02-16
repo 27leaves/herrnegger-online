@@ -2,7 +2,7 @@
 	import SEO from '$lib/components/SEO.svelte';
 </script>
 
-<SEO title="Hi, I'm Johannes!" metadescription="Website of Johannes Herrnegger" isArticle={false} />
+<SEO title="Hi, I'm Johannes!" metadescription="Digital Playground of Johannes Herrnegger" isArticle={false} />
 
 <div class="container max-w-prose mx-auto">
 	<h1>Hi, I'm Johannes!</h1>
