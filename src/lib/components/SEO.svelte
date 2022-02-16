@@ -8,23 +8,32 @@
 	export let metadescription;
 	export let title;
 	export let isArticle = false;
-    export let publishedTime = undefined;
-    // export let timeToRead = 0;
+	export let publishedTime = undefined;
+	// export let timeToRead = 0;
 
 	const pageTitle = `${title} - ${siteTitle}`;
-    const pageUrl = `${website.siteUrl}${$page.url.pathname}`;
-    const article = isArticle ? {
-        publishedTime,
-        authors: ['Johannes Herrnegger']
-        // tags: ['Tag A', 'Tag B', 'Tag C']
-    } : undefined;
-    const extendedOpenGraph = {
-		title: pageTitle,
+	const pageUrl = `${website.siteUrl}${$page.url.pathname}`;
+	const article = isArticle
+		? {
+				publishedTime,
+				authors: ['Johannes Herrnegger']
+				// tags: ['Tag A', 'Tag B', 'Tag C']
+		  }
+		: undefined;
+	const extendedOpenGraph = {
+		title: title,
 		description: metadescription,
 		url: pageUrl,
 		type: isArticle ? 'basic' : 'article',
-        article,
-	}
+		article
+	};
+	const twitter = {
+		site: '@27leaves',
+		creator: '@27leaves',
+		title: title,
+		description: metadescription,
+		card: 'summary'
+	};
 </script>
 
 <svelte:head>
@@ -32,6 +41,4 @@
 	<meta name="description" content={metadescription} />
 </svelte:head>
 
-<SvelteSeo
-	openGraph={extendedOpenGraph}
-/>
+<SvelteSeo openGraph={extendedOpenGraph} {twitter} />
