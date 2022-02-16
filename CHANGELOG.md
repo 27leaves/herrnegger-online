@@ -2,11 +2,14 @@ Next steps:
 * Add reading time
 * Add category to posts in API
 * Add image generation
-* Add better tags for Twitter
 * Optimize site for mobile
 * List blogs design
 * List projects with atomic progress
 * Change font
+
+Day 7:
+* Fix disappearing styles (There was a wrong tag in <svelte:head>)
+* Add better tags for Twitter
 
 Day 6:
 * Add Svelte-SEO
