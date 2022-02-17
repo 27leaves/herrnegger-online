@@ -1,4 +1,5 @@
 Next steps:
+* Install Plausible 
 * Add Twitter image
 * Add reading time
 * Add category to posts in API
@@ -7,6 +8,15 @@ Next steps:
 * List blogs design
 * List projects with atomic progress
 * Change font
+
+Day 8:
+* Install Ubuntu 20.04 https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ubuntu-20-04-server-on-a-digitalocean-droplet
+* Setup Ubuntu https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
+* Add Docker https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
+* Add Docker Compose https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04
+* Install Plausible https://www.digitalocean.com/community/tutorials/how-to-install-plausible-analytics-on-ubuntu-20-04
+* Add Site to Plausible
+* Finally 😅 add Snippet to this site
 
 Day 7:
 * Fix disappearing styles (There was a wrong tag in <svelte:head>)
