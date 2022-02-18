@@ -1,0 +1,12 @@
+diff --git a/node_modules/remark-reading-time/index.js b/node_modules/remark-reading-time/index.js
+index ba3937e..1bafeea 100644
+--- a/node_modules/remark-reading-time/index.js
++++ b/node_modules/remark-reading-time/index.js
+@@ -17,6 +17,6 @@ export default function readingTime({
+       text += node.value;
+     });
+ 
+-    file.data[attribute] = getReadingTime(text);
++    file.data.fm[attribute] = getReadingTime(text);
+   };
+ }
