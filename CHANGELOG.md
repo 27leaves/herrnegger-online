@@ -1,5 +1,4 @@
 Next steps:
-* Install Plausible 
 * Add Twitter image
 * Add reading time
 * Add category to posts in API
@@ -8,6 +7,12 @@ Next steps:
 * List blogs design
 * List projects with atomic progress
 * Change font
+
+Day 9:
+* Add reading time:
+  * Clone remark-reading-time
+  * Move reading time output to frontmatter
+  * Display reading time in blog posts and list
 
 Day 8:
 * Install Ubuntu 20.04 https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ubuntu-20-04-server-on-a-digitalocean-droplet

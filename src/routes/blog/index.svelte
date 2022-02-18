@@ -31,7 +31,7 @@
 						{post.meta.title}
 					</a>
 				</h2>
-				{categories[post.meta.category].title}, {new Date(post.meta.date).toLocaleDateString(
+				{categories[post.meta.category].title}, {post.meta.readingTime.text}, {new Date(post.meta.date).toLocaleDateString(
 					'de-DE'
 				)}
 			</li>

@@ -1,6 +1,7 @@
 import adapter from '@sveltejs/adapter-netlify';
 import preprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex'
+import remarkReadingTime from "remark-reading-time";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -13,6 +14,9 @@ const config = {
             layout: {
                 blog: 'src/routes/blog/_post.svelte',
             },
+            remarkPlugins: [
+                remarkReadingTime,
+            ]
         })
     ],
 

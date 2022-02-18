@@ -4,6 +4,7 @@
 	export let title;
 	export let date;
 	export let description;
+    export let readingTime;
     // export let post;
 	// export let timeToRead = Math.ceil(readingTime(post.body).minutes);
 	const metadescription = description;
@@ -18,6 +19,6 @@
 
 <div class="prose dark:prose-dark mx-auto">
 	<h1>{title}</h1>
-	<p>Published: {date}</p>
+	<p>Published: {date}, Reading time: {readingTime.text}</p>
 	<slot />
 </div>
