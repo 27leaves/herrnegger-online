@@ -1,14 +1,11 @@
 <script context="module">
 	export const load = async ({ fetch }) => {
 		const getPosts = await fetch('/api/posts.json');
-		const getCategories = await fetch('/api/categories.json');
-		const categories = await getCategories.json();
 		const posts = await getPosts.json();
 
 		return {
 			props: {
 				posts,
-				categories
 			}
 		};
 	};
@@ -16,7 +13,7 @@
 
 <script>
     import SEO from '$lib/components/SEO.svelte';
-	export let posts, categories;
+	export let posts;
 </script>
 
 <SEO title="Blog of Johannes Herrnegger" metadescription="Johannes writes about personal development and software development." isArticle={false} />
@@ -31,7 +28,7 @@
 						{post.meta.title}
 					</a>
 				</h2>
-				{categories[post.meta.category].title}, {post.meta.readingTime.text}, {new Date(post.meta.date).toLocaleDateString(
+				{post.category.title}, {post.meta.readingTime.text}, {new Date(post.meta.date).toLocaleDateString(
 					'de-DE'
 				)}
 			</li>
