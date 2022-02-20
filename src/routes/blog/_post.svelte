@@ -30,7 +30,7 @@
 
 <SEO {title} {metadescription} isArticle={true} publishedTime={date} />
 
-<div class="prose dark:prose-dark mx-auto">
+<div class="prose dark:prose-dark mx-auto pb-20">
 	<h1 class="mb-0">{title}</h1>
 	<p class="text-sm">
 		{readingTime.text}, Published on {new Date(date).toLocaleDateString()}

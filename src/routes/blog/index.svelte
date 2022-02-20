@@ -20,9 +20,9 @@
 
 <div class="max-w-prose mx-auto">
 	<h1>Blog</h1>
-	<ul>
+	<ul class="list-disc ml-6">
 		{#each posts as post}
-			<li>
+			<li class="my-5">
 				<h2>
 					<a href={post.path}>
 						{post.meta.title}

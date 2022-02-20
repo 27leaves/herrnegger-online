@@ -1,12 +1,20 @@
 Next steps:
 * Add Twitter image
-* Add reading time
-* Add category to posts in API
 * Add image generation
 * Optimize site for mobile
 * List blogs design
 * List projects with atomic progress
 * Change font
+* Add category in post
+
+Day 11:
+* Projects page
+* Project subpages (no content yet)
+* Added some blog posts
+
+Day 10:
+* Try to get categories to posts
+* Setup puppeteer
 
 Day 9:
 * Add reading time:

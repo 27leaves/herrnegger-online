@@ -13,6 +13,7 @@ const config = {
             extensions: ['.md'],
             layout: {
                 blog: 'src/routes/blog/_post.svelte',
+                projects: 'src/routes/projects/_project.svelte',
             },
             remarkPlugins: [
                 remarkReadingTime,

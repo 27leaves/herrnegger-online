@@ -5,7 +5,7 @@ date: "2022-01-09"
 category: 'pd'
 ---
 
-A few years ago I faced another important decision. Do I want to finish my masters degree? When my therapist asked me that question, it struck me a bit. I mean, of course — that's what you're supposed to do, right? I won't quit now — so close to the finish line.
+A few years ago I faced [another important decision](./decision). Do I want to finish my masters degree? When my therapist asked me that question, it struck me a bit. I mean, of course — that's what you're supposed to do, right? I won't quit now — so close to the finish line.
 
 **So why haven't I done my thesis yet?** It was the only thing that was missing to finally hold that certificate in my hands, to celebrate my beautiful years in university with my family and friends and to get this heavy burden from my shoulders. Because that's how it felt in that moment. A big, heavy black hole that I did not know how to tackle. I did not know where to start.
 
