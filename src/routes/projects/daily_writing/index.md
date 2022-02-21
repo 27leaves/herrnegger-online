@@ -33,7 +33,7 @@ Everyone who knows me, knows that I try to always take a step back and question 
 * Dealing with the fear of putting myself out there (I had terrible nights because of this)
 * Overcoming perfectionism (Putting something out there every day in ~1 hour of work cannot be perfect, and that should be alright)
 
-Along the way, I also made some new friends, learned how to use Twitter, wrote one semi-viral post and learned how concistency really can pay off. You can read about that in [a course review](/blog/30-essays-in-30-days-my-honest-review) and how this experience also [lead to other projects](/blog/my-new-projects-progressing-from-daily-writing.md) such as building this website in public.
+Along the way, I also made some new friends, learned how to use Twitter, wrote one semi-viral post and learned how concistency really can pay off. You can read about that in [a course review](/blog/30-essays-in-30-days-my-honest-review) and how this experience also [lead to other projects](/blog/my-new-projects-progressing-from-daily-writing) such as building this website in public.
 
 All in all, I'm very happy that I made this and overcame the fear. The first blog posts on this site are basically essays that I wrote over the course of those 30 days.
 
