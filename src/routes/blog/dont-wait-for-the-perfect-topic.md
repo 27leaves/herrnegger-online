@@ -15,4 +15,4 @@ A few years ago I faced [another important decision](./decision). Do I want to f
 
 **Recently, I found myself within those circles all over again.** Which topics do I want to write about? What does my perfect life look like in a year? No idea.
 
-All this perfectionism just leads to procrastination. Let's show up and do.
+**All this perfectionism just leads to procrastination. Let's show up and do.**

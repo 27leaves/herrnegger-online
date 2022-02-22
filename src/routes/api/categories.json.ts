@@ -6,7 +6,10 @@ export const get = async () => {
         },
         dev: {
             title: 'Web/App Development',
-        }
+        },
+        writing: {
+            title: 'Writing',
+        },
     }
   }
 }

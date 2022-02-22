@@ -2,6 +2,7 @@ import adapter from '@sveltejs/adapter-netlify';
 import preprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex'
 import remarkReadingTime from "remark-reading-time";
+import rehypeExternalLinks from 'rehype-external-links'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -17,6 +18,9 @@ const config = {
             },
             remarkPlugins: [
                 remarkReadingTime,
+            ],
+            rehypePlugins: [
+                [rehypeExternalLinks, {target: false, rel: ['nofollow']}],
             ]
         })
     ],
