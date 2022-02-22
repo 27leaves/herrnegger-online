@@ -29,7 +29,8 @@ At some point "life got in the way" and I was not motivated to do all the live c
 ## My Skepticism
 With some content of the course I was a bit skeptic. One thing was the pushing of Typeshare. I think it's cool that they build their own tool and of course it's their right to push it, but it made the content a bit less trustworthy. "Do not create a blog" is one of their big mantras. Is this really because you believe that or do you just want to push your own platform? I think both of them could be true and I don't want to ascribe something to them, but those are my skeptic thoughts.
 
-*Update: Sean Oliver, my guide from the cohort [clarified this](https://twitter.com/Sean_Oliver/status/1490772541559873536): Before typeshare, there was a steep learning curve to using a Figma template to achieve the same image result. It’s still possible to do that. They simply reccomend a tool purpose built to make it easier.
+*Update: Sean Oliver, my guide from the cohort [clarified this](https://twitter.com/Sean_Oliver/status/1490772541559873536):
+> Before typeshare, there was a steep learning curve to using a Figma template to achieve the same image result. It’s still possible to do that. They simply reccomend a tool purpose built to make it easier.
 
 ## Conclusion
 I'm very happy that I decided to sign up for this course. I'm thankful for all of you who made this such a nice journey and who were so supportive over the last month. Nonetheless, I decided to take those all those learnings and put it into another context. More on that tomorrow :)
