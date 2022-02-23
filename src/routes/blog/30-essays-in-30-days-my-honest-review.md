@@ -2,6 +2,8 @@
 title: "30 Essays in 30 Days: My Honest Review"
 description: My thoughts after going through the Ship30For30 cohort
 date: "2022-02-07"
+project: 'daily-writing'
+published: true
 category: 'pd'
 ---
 

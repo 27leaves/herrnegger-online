@@ -2,6 +2,8 @@
 title: How I found the value in Play again
 description: An essay about my experience with Play, Fun and Programming.
 date: "2022-01-14"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1481906131765243906
 ---

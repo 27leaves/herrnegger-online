@@ -2,6 +2,8 @@
 title: Sitting in front of a blank screen? Here are 3 Tips that will help tomorrow
 description: Today I did not know what to write about, so I collected some helpful reminders.
 date: "2022-01-17"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1482983334183591942
 ---

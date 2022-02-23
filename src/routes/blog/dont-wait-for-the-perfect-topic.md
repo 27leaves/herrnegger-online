@@ -2,7 +2,10 @@
 title: Don't wait for the perfect topic
 description: What tackling my master thesis taught me about life.
 date: "2022-01-09"
+project: 'daily-writing'
+published: true
 category: 'pd'
+twitter_post_url: https://twitter.com/27leaves/status/1480077657152921602
 ---
 
 A few years ago I faced [another important decision](./decision). Do I want to finish my masters degree? When my therapist asked me that question, it struck me a bit. I mean, of course — that's what you're supposed to do, right? I won't quit now — so close to the finish line.

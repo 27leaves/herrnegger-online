@@ -2,6 +2,8 @@
 title: The One Thing
 description: A wonderful simple question you can ask yourself every day.
 date: "2022-01-13"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1481532288613629957
 ---

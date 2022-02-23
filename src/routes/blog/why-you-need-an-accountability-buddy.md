@@ -2,6 +2,8 @@
 title: "Why you need an Accountability Buddy: Finally stick to those habits and create a positive change in your life"
 description: Accountability buddies can be a very powerful tool in your habit toolbox.
 date: "2022-01-15"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1482304803573321729
 ---

@@ -1,24 +1,15 @@
+import {get as getPosts} from '../../api/posts.json';
+
 export const get = async () => {
+  const posts = (await getPosts()).body;
+  const dailyWritingPosts = posts.filter(p => p.meta.project === 'daily-writing');
+  const items = dailyWritingPosts.map(post => ({
+        date: post.meta.date,
+        url: post.path,
+        title: post.meta.title,
+        twitterUrl: post.meta.twitter_post_url
+    }));
   return {
-    body: [
-        {
-            date: '2022-01-08',
-            title: 'Decision',
-            url: '/blog/decision',
-            twitterUrl: 'https://twitter.com/27leaves/status/1479702902419738625'
-        },
-        {
-            date: '2022-01-09',
-            title: 'Don\'t wait for the perfect topic',
-            url: '/blog/dont-wait-for-the-perfect-topic',
-            twitterUrl: 'https://twitter.com/27leaves/status/1480077657152921602'
-        },
-        {
-            date: '2022-01-10',
-            title: 'Why focusing on a niche might hold you back',
-            url: '/blog/why-focusing-on-a-niche-might-hold-you-back',
-            twitterUrl: 'https://twitter.com/27leaves/status/1480435707223154695'
-        }
-    ]
+    body: items,
   }
 }

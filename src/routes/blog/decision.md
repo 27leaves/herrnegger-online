@@ -1,6 +1,8 @@
 ---
 title: Decision
 date: "2022-01-08"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1479702902419738625
 ---

@@ -2,6 +2,8 @@
 title: Be the best possible Accountability Buddy with those 3 simple Steps
 description: Sticking to habits is way easier with accountability buddies. Those steps will guide you.
 date: "2022-01-16"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1482815389381926918
 ---

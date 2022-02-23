@@ -1,7 +1,8 @@
 <script context="module">
 	export const load = async ({ fetch }) => {
 		const getPosts = await fetch('/api/posts.json');
-		const posts = await getPosts.json();
+		const allPosts = await getPosts.json();
+        const posts = allPosts.filter(p => p.meta.published);
 
 		return {
 			props: {

@@ -2,6 +2,8 @@
 title: "How A Story about Old Keys Inspired my Writing"
 description: I read a story about old keys and I love it! What makes it so special?
 date: "2022-01-20"
+project: 'daily-writing'
+published: true
 category: 'writing'
 twitter_post_url: https://twitter.com/27leaves/status/1483708259525611520
 ---

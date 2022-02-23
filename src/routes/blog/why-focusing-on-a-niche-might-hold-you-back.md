@@ -2,6 +2,8 @@
 title: Why focusing on a niche might hold you back
 description: Why focusing on a niche might hold you back and not all advice might be helpful for you.
 date: "2022-01-10"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1480435707223154695
 ---

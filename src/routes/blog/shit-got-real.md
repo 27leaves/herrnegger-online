@@ -2,6 +2,8 @@
 title: Shit got real
 description: Reflections about an essay that "blew up" on twitter.
 date: "2022-01-12"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1481163151118843904
 ---

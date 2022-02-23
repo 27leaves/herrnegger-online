@@ -2,6 +2,8 @@
 title: "How to sleep better: 3 more helpful tools that will optimize your health"
 description: Expanded on yesterdays list, here are some more tips on how to optimize your sleep
 date: "2022-01-19"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1483708259525611520
 ---

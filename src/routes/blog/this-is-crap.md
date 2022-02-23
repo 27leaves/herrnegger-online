@@ -2,7 +2,9 @@
 title: This is crap
 description: Just trying to be consistent
 date: "2022-01-11"
-category: 'pd'
+project: 'daily-writing'
+published: true
+category: 'writing'
 twitter_post_url: https://twitter.com/27leaves/status/1480822794225176578
 ---
 

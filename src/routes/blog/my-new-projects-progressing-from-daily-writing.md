@@ -2,6 +2,8 @@
 title: "My New Projects: Progressing from Daily Writing"
 description: Ideas of using my sacred hour for nice little projects and hobbies
 date: "2022-02-08"
+project: 'daily-writing'
+published: true
 category: 'pd'
 ---
 

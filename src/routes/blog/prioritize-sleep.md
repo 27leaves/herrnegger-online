@@ -2,6 +2,8 @@
 title: "The number ONE tip for my 25 year old self: Prioritize your Sleep to be healthier and happier!"
 description: I can't believe that I recognized this so late in life.
 date: "2022-01-18"
+project: 'daily-writing'
+published: true
 category: 'pd'
 twitter_post_url: https://twitter.com/27leaves/status/1483346918558294018
 ---
