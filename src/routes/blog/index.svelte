@@ -29,9 +29,7 @@
 						{post.meta.title}
 					</a>
 				</h2>
-				{post.category.title}, {post.meta.readingTime.text}, {new Date(post.meta.date).toLocaleDateString(
-					'de-DE'
-				)}
+				{post.category.title}, {post.meta.readingTime.text}, {new Date(post.meta.date).toLocaleDateString()}
 			</li>
 		{/each}
 	</ul>

@@ -5,6 +5,7 @@ date: "2022-02-07"
 project: 'daily-writing'
 published: true
 category: 'pd'
+twitter_post_url: https://twitter.com/27leaves/status/1490705936956239874
 ---
 
 Over the course of the last month I took part in the Digital Writing course Ship 30 for 30. I have mixed feelings about my personal journey and in this essay I want to discuss my Learnings.

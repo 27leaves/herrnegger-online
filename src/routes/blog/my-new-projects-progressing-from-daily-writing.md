@@ -5,6 +5,7 @@ date: "2022-02-08"
 project: 'daily-writing'
 published: true
 category: 'pd'
+twitter_post_url: https://twitter.com/27leaves/status/1490962207277936640
 ---
 
 **I will stop my daily writing.**
